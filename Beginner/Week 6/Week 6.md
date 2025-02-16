@@ -53,5 +53,8 @@
 ```
 5. Create a Node.js CLI application that uses GitHub API to get the repositories of a single user:
 	- [Link](https://github.com/ahmedxgouda/IEEE-2025-Season-Tasks---Node.js/tree/main/Beginner/Week%206/GitHub%20API)
-6. Implement a cloud calculator using the HTTP module.:
+6. Implement a cloud calculator using the HTTP module:
 	- [Link](https://github.com/ahmedxgouda/IEEE-2025-Season-Tasks---Node.js/tree/main/Beginner/Week%206/Cloud%20Calculator)
+7. Create a CLI file search application using Node.js. The application takes the file name and a query string as parameters, and prints the line which contains this string. If the string can't be found, the application should print `"THAT'S NOT FUNNY"`:
+	- I meant not to add the test file to the `.gitignore` file :).
+	- [Link]()
