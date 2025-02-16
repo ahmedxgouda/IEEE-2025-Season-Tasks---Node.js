@@ -52,6 +52,5 @@
 }
 ```
 5. Create a Node.js CLI application that uses GitHub API to get the repositories of a single user:
-	- [Link](./GitHub\ API)
+	- [Link](https://github.com/ahmedxgouda/IEEE-2025-Season-Tasks---Node.js/tree/main/Beginner/Week%206/GitHub%20API)
 6. Implement a cloud calculator using the HTTP module.
-	- [Link](./Cloud\ Calculator)
