@@ -57,4 +57,18 @@
 	- [Link](https://github.com/ahmedxgouda/IEEE-2025-Season-Tasks---Node.js/tree/main/Beginner/Week%206/Cloud%20Calculator)
 7. Create a CLI file search application using Node.js. The application takes the file name and a query string as parameters, and prints the line which contains this string. If the string can't be found, the application should print `"THAT'S NOT FUNNY"`:
 	- I meant not to add the test file to the `.gitignore` file :).
-	- [Link]()
+	- [Link](https://github.com/ahmedxgouda/IEEE-2025-Season-Tasks---Node.js/tree/main/Beginner/Week%206/Search%20App)
+8.  Explain using code the difference between using CommonJS modules and the new EcmaScript modules, and show how to switch between them:
+	```javascript
+	// CommonJS
+	// CommonJS can be used in Node.JS as default
+	// CommonJS operations are synchronous.
+	const {createInterface} = require('node:fs');
+	module.exports = { myfunction };
+	// ES Modules
+	// To use ES Modules, you must change the filename extension to .mjs and setting "type": "module" in package.json
+	// ES Modules operations are asynchronous.
+	import { createInterface } from 'node:fs';
+	export const myFunction = () => {};
+	export default myFunction;
+	```
