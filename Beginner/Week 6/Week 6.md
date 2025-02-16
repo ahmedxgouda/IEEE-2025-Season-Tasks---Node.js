@@ -51,4 +51,7 @@
     }
 }
 ```
-5. Create a Node.js CLI application that uses GitHub API to get the repositories of a single user
+5. Create a Node.js CLI application that uses GitHub API to get the repositories of a single user:
+	- [Link](./GitHub\ API)
+6. Implement a cloud calculator using the HTTP module.
+	- [Link](./Cloud\ Calculator)

@@ -1,0 +1,7 @@
+{
+  "name": "github-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
